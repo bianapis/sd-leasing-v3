@@ -1,0 +1,14 @@
+{
+  "depositsDepositProcessingServiceDescription" : "depositsDepositProcessingServiceDescription",
+  "depositsUpdateActionTaskReference" : "IDUATR713589",
+  "depositsPreconditions" : "depositsPreconditions",
+  "depositProcessing" : "depositProcessing",
+  "depositsDepositProcessingServiceWorkProduct" : "depositsDepositProcessingServiceWorkProduct",
+  "depositsDepositProcessingServiceType" : "depositsDepositProcessingServiceType",
+  "depositsDepositProcessingServiceName" : "depositsDepositProcessingServiceName",
+  "updateResponseRecord" : {},
+  "depositsDepositProcessingServiceInputsandOuputs" : "depositsDepositProcessingServiceInputsandOuputs",
+  "depositsUpdateActionTaskRecord" : {},
+  "depositsPostconditions" : "depositsPostconditions",
+  "depositsFeatureSchedule" : "depositsFeatureSchedule"
+}

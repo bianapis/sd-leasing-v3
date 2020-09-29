@@ -1,0 +1,14 @@
+{
+  "businessService" : "businessService",
+  "feesUpdateActionTaskRecord" : {},
+  "feesServiceDescription" : "feesServiceDescription",
+  "feesServiceName" : "feesServiceName",
+  "feesUpdateActionTaskReference" : "FUATR753643",
+  "feesServiceWorkProduct" : "feesServiceWorkProduct",
+  "feesPostconditions" : "feesPostconditions",
+  "feesServiceType" : "feesServiceType",
+  "feesPreconditions" : "feesPreconditions",
+  "updateResponseRecord" : {},
+  "feesFeatureSchedule" : "feesFeatureSchedule",
+  "feesServiceInputsandOuputs" : "feesServiceInputsandOuputs"
+}

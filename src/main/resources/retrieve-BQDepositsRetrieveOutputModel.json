@@ -1,0 +1,26 @@
+{
+  "depositsInstanceAnalysis" : {
+    "depositsInstanceAnalysisParameters" : "depositsInstanceAnalysisParameters",
+    "depositsInstanceAnalysisRecord" : {},
+    "depositsInstanceAnalysisReportType" : "depositsInstanceAnalysisReportType",
+    "depositsInstanceAnalysisReport" : {}
+  },
+  "depositsPreconditions" : "depositsPreconditions",
+  "depositsDepositProcessingServiceWorkProduct" : "depositsDepositProcessingServiceWorkProduct",
+  "depositsDepositProcessingServiceType" : "depositsDepositProcessingServiceType",
+  "depositsRetrieveActionTaskRecord" : {},
+  "depositsRetrieveActionResponse" : "depositsRetrieveActionResponse",
+  "depositsRetrieveActionTaskReference" : "IDRATR711771",
+  "depositsFeatureSchedule" : "depositsFeatureSchedule",
+  "depositsInstanceReport" : {
+    "depositsInstanceReportType" : "depositsInstanceReportType",
+    "depositsInstanceReportRecord" : {},
+    "depositsInstanceReportParameters" : "depositsInstanceReportParameters",
+    "depositsInstanceReport" : {}
+  },
+  "depositsDepositProcessingServiceDescription" : "depositsDepositProcessingServiceDescription",
+  "depositProcessing" : "depositProcessing",
+  "depositsDepositProcessingServiceName" : "depositsDepositProcessingServiceName",
+  "depositsDepositProcessingServiceInputsandOuputs" : "depositsDepositProcessingServiceInputsandOuputs",
+  "depositsPostconditions" : "depositsPostconditions"
+}

@@ -1,0 +1,15 @@
+{
+  "corporateActionFeatureSchedule" : "corporateActionFeatureSchedule",
+  "corporateActionInstanceReference" : "CAIR706825",
+  "corporateActionBSCorporateActionProcessingServiceType" : "corporateActionBSCorporateActionProcessingServiceType",
+  "corporateActionBSCorporateActionProcessingServiceInputsandOuputs" : "corporateActionBSCorporateActionProcessingServiceInputsandOuputs",
+  "corporateActionInstanceStatus" : "corporateActionInstanceStatus",
+  "corporateActionBSCorporateActionProcessingServiceWorkProduct" : "corporateActionBSCorporateActionProcessingServiceWorkProduct",
+  "corporateActionPreconditions" : "corporateActionPreconditions",
+  "corporateActionInitiateActionRecord" : {},
+  "corporateActionInitiateActionReference" : "CAIAR716018",
+  "bSCorporateActionProcessing" : "bSCorporateActionProcessing",
+  "corporateActionBSCorporateActionProcessingServiceName" : "corporateActionBSCorporateActionProcessingServiceName",
+  "corporateActionPostconditions" : "corporateActionPostconditions",
+  "corporateActionBSCorporateActionProcessingServiceDescription" : "corporateActionBSCorporateActionProcessingServiceDescription"
+}

@@ -1,0 +1,10 @@
+{
+  "leasingArrangementInstanceReference" : "LAIR799889",
+  "leasingArrangementStatus" : "leasingArrangementStatus",
+  "leasingArrangementInitiateActionRecord" : {},
+  "leasingArrangementInitiateActionReference" : "LAIAR763623",
+  "leasingArrangementSelectedOption" : "leasingArrangementSelectedOption",
+  "leasingArrangementParameterType" : "leasingArrangementParameterType",
+  "leasingArrangementInstanceStatus" : "leasingArrangementInstanceStatus",
+  "leasingArrangementSchedule" : "leasingArrangementSchedule"
+}

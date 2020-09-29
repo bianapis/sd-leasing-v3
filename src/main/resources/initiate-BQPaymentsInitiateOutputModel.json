@@ -1,0 +1,15 @@
+{
+  "paymentsPreconditions" : "paymentsPreconditions",
+  "businessService" : "businessService",
+  "paymentsServiceInputsandOuputs" : "paymentsServiceInputsandOuputs",
+  "paymentsPostconditions" : "paymentsPostconditions",
+  "paymentsServiceName" : "paymentsServiceName",
+  "paymentsServiceDescription" : "paymentsServiceDescription",
+  "paymentsInitiateActionRecord" : {},
+  "paymentsInstanceReference" : "PIR778768",
+  "paymentsInstanceStatus" : "paymentsInstanceStatus",
+  "paymentsFeatureSchedule" : "paymentsFeatureSchedule",
+  "paymentsServiceType" : "paymentsServiceType",
+  "paymentsInitiateActionReference" : "PIAR784981",
+  "paymentsServiceWorkProduct" : "paymentsServiceWorkProduct"
+}

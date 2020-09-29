@@ -1,0 +1,26 @@
+{
+  "corporateActionRetrieveActionResponse" : "corporateActionRetrieveActionResponse",
+  "corporateActionFeatureSchedule" : "corporateActionFeatureSchedule",
+  "corporateActionRetrieveActionTaskReference" : "CARATR758947",
+  "corporateActionBSCorporateActionProcessingServiceType" : "corporateActionBSCorporateActionProcessingServiceType",
+  "corporateActionInstanceReport" : {
+    "corporateActionInstanceReportType" : "corporateActionInstanceReportType",
+    "corporateActionInstanceReportParameters" : "corporateActionInstanceReportParameters",
+    "corporateActionInstanceReportRecord" : {},
+    "corporateActionInstanceReport" : {}
+  },
+  "corporateActionBSCorporateActionProcessingServiceInputsandOuputs" : "corporateActionBSCorporateActionProcessingServiceInputsandOuputs",
+  "corporateActionBSCorporateActionProcessingServiceWorkProduct" : "corporateActionBSCorporateActionProcessingServiceWorkProduct",
+  "corporateActionInstanceAnalysis" : {
+    "corporateActionInstanceAnalysisRecord" : {},
+    "corporateActionInstanceAnalysisParameters" : "corporateActionInstanceAnalysisParameters",
+    "corporateActionInstanceAnalysisReport" : {},
+    "corporateActionInstanceAnalysisReportType" : "corporateActionInstanceAnalysisReportType"
+  },
+  "corporateActionPreconditions" : "corporateActionPreconditions",
+  "bSCorporateActionProcessing" : "bSCorporateActionProcessing",
+  "corporateActionBSCorporateActionProcessingServiceName" : "corporateActionBSCorporateActionProcessingServiceName",
+  "corporateActionPostconditions" : "corporateActionPostconditions",
+  "corporateActionBSCorporateActionProcessingServiceDescription" : "corporateActionBSCorporateActionProcessingServiceDescription",
+  "corporateActionRetrieveActionTaskRecord" : {}
+}

@@ -1,0 +1,11 @@
+bin/
+.gradle
+.idea
+application.log
+.project
+.classpath
+.settings
+.swagger-codegen
+.swagger-codegen-ignore
+.DS_Store
+build/

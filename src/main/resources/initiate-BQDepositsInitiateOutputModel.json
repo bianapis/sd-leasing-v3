@@ -1,0 +1,15 @@
+{
+  "depositsInitiateActionRecord" : {},
+  "depositsPreconditions" : "depositsPreconditions",
+  "depositsDepositProcessingServiceWorkProduct" : "depositsDepositProcessingServiceWorkProduct",
+  "depositsDepositProcessingServiceType" : "depositsDepositProcessingServiceType",
+  "depositsInstanceStatus" : "depositsInstanceStatus",
+  "depositsFeatureSchedule" : "depositsFeatureSchedule",
+  "depositsDepositProcessingServiceDescription" : "depositsDepositProcessingServiceDescription",
+  "depositProcessing" : "depositProcessing",
+  "depositsDepositProcessingServiceName" : "depositsDepositProcessingServiceName",
+  "depositsInitiateActionReference" : "IDIAR737342",
+  "depositsDepositProcessingServiceInputsandOuputs" : "depositsDepositProcessingServiceInputsandOuputs",
+  "depositsPostconditions" : "depositsPostconditions",
+  "depositsInstanceReference" : "IDIR715422"
+}

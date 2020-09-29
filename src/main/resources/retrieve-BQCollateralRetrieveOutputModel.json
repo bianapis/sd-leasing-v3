@@ -1,0 +1,26 @@
+{
+  "collateralServiceWorkProduct" : "collateralServiceWorkProduct",
+  "businessService" : "businessService",
+  "collateralPostconditions" : "collateralPostconditions",
+  "collateralServiceType" : "collateralServiceType",
+  "collateralFeatureSchedule" : "collateralFeatureSchedule",
+  "collateralInstanceReport" : {
+    "collateralInstanceReportRecord" : {},
+    "collateralInstanceReportType" : "collateralInstanceReportType",
+    "collateralInstanceReportParameters" : "collateralInstanceReportParameters",
+    "collateralInstanceReport" : {}
+  },
+  "collateralServiceDescription" : "collateralServiceDescription",
+  "collateralRetrieveActionTaskRecord" : {},
+  "collateralRetrieveActionResponse" : "collateralRetrieveActionResponse",
+  "collateralInstanceAnalysis" : {
+    "collateralInstanceAnalysisReportType" : "collateralInstanceAnalysisReportType",
+    "collateralInstanceAnalysisRecord" : {},
+    "collateralInstanceAnalysisParameters" : "collateralInstanceAnalysisParameters",
+    "collateralInstanceAnalysisReport" : {}
+  },
+  "collateralServiceInputsandOuputs" : "collateralServiceInputsandOuputs",
+  "collateralRetrieveActionTaskReference" : "CRATR717377",
+  "collateralServiceName" : "collateralServiceName",
+  "collateralPreconditions" : "collateralPreconditions"
+}

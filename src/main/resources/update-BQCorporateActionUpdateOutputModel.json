@@ -1,0 +1,14 @@
+{
+  "corporateActionPreconditions" : "corporateActionPreconditions",
+  "corporateActionFeatureSchedule" : "corporateActionFeatureSchedule",
+  "corporateActionUpdateActionTaskRecord" : {},
+  "corporateActionBSCorporateActionProcessingServiceType" : "corporateActionBSCorporateActionProcessingServiceType",
+  "updateResponseRecord" : {},
+  "bSCorporateActionProcessing" : "bSCorporateActionProcessing",
+  "corporateActionBSCorporateActionProcessingServiceInputsandOuputs" : "corporateActionBSCorporateActionProcessingServiceInputsandOuputs",
+  "corporateActionBSCorporateActionProcessingServiceName" : "corporateActionBSCorporateActionProcessingServiceName",
+  "corporateActionUpdateActionTaskReference" : "CAUATR715664",
+  "corporateActionPostconditions" : "corporateActionPostconditions",
+  "corporateActionBSCorporateActionProcessingServiceWorkProduct" : "corporateActionBSCorporateActionProcessingServiceWorkProduct",
+  "corporateActionBSCorporateActionProcessingServiceDescription" : "corporateActionBSCorporateActionProcessingServiceDescription"
+}

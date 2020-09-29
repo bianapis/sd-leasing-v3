@@ -1,0 +1,15 @@
+{
+  "collateralServiceWorkProduct" : "collateralServiceWorkProduct",
+  "businessService" : "businessService",
+  "collateralPostconditions" : "collateralPostconditions",
+  "collateralServiceType" : "collateralServiceType",
+  "collateralFeatureSchedule" : "collateralFeatureSchedule",
+  "collateralServiceDescription" : "collateralServiceDescription",
+  "collateralInstanceStatus" : "collateralInstanceStatus",
+  "collateralInitiateActionRecord" : {},
+  "collateralServiceInputsandOuputs" : "collateralServiceInputsandOuputs",
+  "collateralInitiateActionReference" : "CIAR789669",
+  "collateralInstanceReference" : "CIR736500",
+  "collateralServiceName" : "collateralServiceName",
+  "collateralPreconditions" : "collateralPreconditions"
+}

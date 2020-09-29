@@ -1,0 +1,14 @@
+{
+  "businessService" : "businessService",
+  "interestPostconditions" : "interestPostconditions",
+  "interestServiceType" : "interestServiceType",
+  "interestPreconditions" : "interestPreconditions",
+  "interestServiceDescription" : "interestServiceDescription",
+  "updateResponseRecord" : {},
+  "interestFeatureSchedule" : "interestFeatureSchedule",
+  "interestServiceWorkProduct" : "interestServiceWorkProduct",
+  "interestServiceName" : "interestServiceName",
+  "interestUpdateActionTaskRecord" : {},
+  "interestUpdateActionTaskReference" : "IUATR784535",
+  "interestServiceInputsandOuputs" : "interestServiceInputsandOuputs"
+}

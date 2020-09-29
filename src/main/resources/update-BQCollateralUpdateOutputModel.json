@@ -1,0 +1,14 @@
+{
+  "collateralServiceWorkProduct" : "collateralServiceWorkProduct",
+  "businessService" : "businessService",
+  "collateralPostconditions" : "collateralPostconditions",
+  "collateralServiceType" : "collateralServiceType",
+  "collateralServiceInputsandOuputs" : "collateralServiceInputsandOuputs",
+  "collateralFeatureSchedule" : "collateralFeatureSchedule",
+  "collateralUpdateActionTaskReference" : "CUATR728395",
+  "updateResponseRecord" : {},
+  "collateralUpdateActionTaskRecord" : {},
+  "collateralServiceDescription" : "collateralServiceDescription",
+  "collateralServiceName" : "collateralServiceName",
+  "collateralPreconditions" : "collateralPreconditions"
+}

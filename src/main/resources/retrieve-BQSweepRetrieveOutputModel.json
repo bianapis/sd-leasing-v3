@@ -1,0 +1,26 @@
+{
+  "businessService" : "businessService",
+  "sweepServiceDescription" : "sweepServiceDescription",
+  "sweepRetrieveActionTaskReference" : "SRATR729484",
+  "sweepFeatureSchedule" : "sweepFeatureSchedule",
+  "sweepServiceWorkProduct" : "sweepServiceWorkProduct",
+  "sweepServiceType" : "sweepServiceType",
+  "sweepServiceInputsandOuputs" : "sweepServiceInputsandOuputs",
+  "sweepInstanceReport" : {
+    "sweepInstanceReportType" : "sweepInstanceReportType",
+    "sweepInstanceReportParameters" : "sweepInstanceReportParameters",
+    "sweepInstanceReportRecord" : {},
+    "sweepInstanceReport" : {}
+  },
+  "sweepRetrieveActionResponse" : "sweepRetrieveActionResponse",
+  "sweepServiceName" : "sweepServiceName",
+  "sweepInstanceAnalysis" : {
+    "sweepInstanceAnalysisReportType" : "sweepInstanceAnalysisReportType",
+    "sweepInstanceAnalysisRecord" : {},
+    "sweepInstanceAnalysisParameters" : "sweepInstanceAnalysisParameters",
+    "sweepInstanceAnalysisReport" : {}
+  },
+  "sweepRetrieveActionTaskRecord" : {},
+  "sweepPostconditions" : "sweepPostconditions",
+  "sweepPreconditions" : "sweepPreconditions"
+}

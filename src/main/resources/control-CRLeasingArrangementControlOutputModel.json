@@ -1,0 +1,9 @@
+{
+  "leasingArrangementControlActionResponse" : "leasingArrangementControlActionResponse",
+  "leasingArrangementStatus" : "leasingArrangementStatus",
+  "leasingArrangementControlActionTaskReference" : "LACATR784900",
+  "leasingArrangementSelectedOption" : "leasingArrangementSelectedOption",
+  "leasingArrangementParameterType" : "leasingArrangementParameterType",
+  "leasingArrangementControlActionTaskRecord" : {},
+  "leasingArrangementSchedule" : "leasingArrangementSchedule"
+}

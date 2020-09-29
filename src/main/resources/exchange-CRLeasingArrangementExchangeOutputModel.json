@@ -1,0 +1,9 @@
+{
+  "leasingArrangementStatus" : "leasingArrangementStatus",
+  "leasingArrangementExchangeActionTaskReference" : "LAEATR704795",
+  "leasingArrangementSelectedOption" : "leasingArrangementSelectedOption",
+  "leasingArrangementExchangeActionTaskRecord" : {},
+  "leasingArrangementExchangeActionResponse" : "leasingArrangementExchangeActionResponse",
+  "leasingArrangementParameterType" : "leasingArrangementParameterType",
+  "leasingArrangementSchedule" : "leasingArrangementSchedule"
+}

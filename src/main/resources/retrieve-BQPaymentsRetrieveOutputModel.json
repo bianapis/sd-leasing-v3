@@ -1,0 +1,26 @@
+{
+  "paymentsRetrieveActionResponse" : "paymentsRetrieveActionResponse",
+  "paymentsPreconditions" : "paymentsPreconditions",
+  "businessService" : "businessService",
+  "paymentsServiceInputsandOuputs" : "paymentsServiceInputsandOuputs",
+  "paymentsPostconditions" : "paymentsPostconditions",
+  "paymentsServiceName" : "paymentsServiceName",
+  "paymentsServiceDescription" : "paymentsServiceDescription",
+  "paymentsInstanceAnalysis" : {
+    "paymentsInstanceAnalysisReport" : {},
+    "paymentsInstanceAnalysisRecord" : {},
+    "paymentsInstanceAnalysisParameters" : "paymentsInstanceAnalysisParameters",
+    "paymentsInstanceAnalysisReportType" : "paymentsInstanceAnalysisReportType"
+  },
+  "paymentsRetrieveActionTaskReference" : "PRATR757769",
+  "paymentsInstanceReport" : {
+    "paymentsInstanceReport" : {},
+    "paymentsInstanceReportRecord" : {},
+    "paymentsInstanceReportType" : "paymentsInstanceReportType",
+    "paymentsInstanceReportParameters" : "paymentsInstanceReportParameters"
+  },
+  "paymentsFeatureSchedule" : "paymentsFeatureSchedule",
+  "paymentsServiceType" : "paymentsServiceType",
+  "paymentsRetrieveActionTaskRecord" : {},
+  "paymentsServiceWorkProduct" : "paymentsServiceWorkProduct"
+}

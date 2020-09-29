@@ -1,0 +1,15 @@
+{
+  "paymentsExchangeActionResponse" : "paymentsExchangeActionResponse",
+  "paymentsPreconditions" : "paymentsPreconditions",
+  "businessService" : "businessService",
+  "paymentsServiceInputsandOuputs" : "paymentsServiceInputsandOuputs",
+  "paymentsPostconditions" : "paymentsPostconditions",
+  "paymentsExchangeActionTaskReference" : "PEATR764805",
+  "paymentsServiceName" : "paymentsServiceName",
+  "paymentsServiceDescription" : "paymentsServiceDescription",
+  "paymentsExchangeActionTaskRecord" : {},
+  "paymentsInstanceStatus" : "paymentsInstanceStatus",
+  "paymentsFeatureSchedule" : "paymentsFeatureSchedule",
+  "paymentsServiceType" : "paymentsServiceType",
+  "paymentsServiceWorkProduct" : "paymentsServiceWorkProduct"
+}

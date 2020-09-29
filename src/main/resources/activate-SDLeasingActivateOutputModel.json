@@ -1,0 +1,24 @@
+{
+  "leasingServiceConfigurationRecord" : {
+    "leasingServiceAgreement" : {
+      "leasingServiceUserReference" : "767210",
+      "leasingServiceAgreementTermsandConditions" : "leasingServiceAgreementTermsandConditions",
+      "leasingServiceAgreementReference" : "791202"
+    },
+    "leasingServiceConfigurationSetup" : {
+      "leasingServiceConfigurationParameter" : "leasingServiceConfigurationParameter"
+    },
+    "leasingServiceSubscription" : {
+      "leasingServiceSubscriberAccessProfile" : "leasingServiceSubscriberAccessProfile",
+      "leasingServiceSubscriberReference" : "769192"
+    },
+    "leasingServiceConfigurationSettingReference" : "700761",
+    "leasingServiceStatus" : "leasingServiceStatus",
+    "leasingServiceConfigurationSettingDescription" : "leasingServiceConfigurationSettingDescription"
+  },
+  "leasingActivationActionTaskReference" : "SAATR758836",
+  "leasingActivationActionTaskRecord" : {},
+  "leasingServicingSessionRecord" : {},
+  "leasingServicingSessionReference" : "SSSR783215",
+  "leasingServicingSessionStatus" : "leasingServicingSessionStatus"
+}

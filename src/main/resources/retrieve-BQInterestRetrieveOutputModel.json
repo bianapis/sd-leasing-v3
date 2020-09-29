@@ -1,0 +1,26 @@
+{
+  "businessService" : "businessService",
+  "interestPostconditions" : "interestPostconditions",
+  "interestRetrieveActionResponse" : "interestRetrieveActionResponse",
+  "interestServiceType" : "interestServiceType",
+  "interestPreconditions" : "interestPreconditions",
+  "interestRetrieveActionTaskReference" : "IRATR722982",
+  "interestServiceDescription" : "interestServiceDescription",
+  "interestFeatureSchedule" : "interestFeatureSchedule",
+  "interestServiceName" : "interestServiceName",
+  "interestInstanceReport" : {
+    "interestInstanceReportRecord" : {},
+    "interestInstanceReportParameters" : "interestInstanceReportParameters",
+    "interestInstanceReportType" : "interestInstanceReportType",
+    "interestInstanceReport" : {}
+  },
+  "interestInstanceAnalysis" : {
+    "interestInstanceAnalysisRecord" : {},
+    "interestInstanceAnalysisParameters" : "interestInstanceAnalysisParameters",
+    "interestInstanceAnalysisReportType" : "interestInstanceAnalysisReportType",
+    "interestInstanceAnalysisReport" : {}
+  },
+  "interestRetrieveActionTaskRecord" : {},
+  "interestServiceWorkProduct" : "interestServiceWorkProduct",
+  "interestServiceInputsandOuputs" : "interestServiceInputsandOuputs"
+}

@@ -1,0 +1,39 @@
+{
+  "leasingRetrieveActionRecord" : {
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "leasingPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "leasingActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "leasingOfferedService" : {
+    "leasingServiceReference" : "776158",
+    "leasingServiceRecord" : {
+      "leasingServiceSchedule" : "leasingServiceSchedule",
+      "leasingServiceType" : "leasingServiceType",
+      "leasingServicePoliciesandGuidelines" : {
+        "leasingServiceIntendedUses" : "leasingServiceIntendedUses",
+        "leasingServicePricingandTerms" : "leasingServicePricingandTerms",
+        "leasingServiceEligibility" : "leasingServiceEligibility"
+      },
+      "leasingServiceVersion" : "leasingServiceVersion",
+      "leasingServiceDescription" : "leasingServiceDescription"
+    }
+  },
+  "leasingRetrieveActionTaskRecord" : {},
+  "leasingRetrieveActionTaskReference" : "SRATR795161",
+  "leasingRetrieveActionResponse" : "leasingRetrieveActionResponse"
+}

@@ -1,0 +1,28 @@
+{
+  "leasingArrangementRetrieveActionTaskReference" : "LARATR756262",
+  "leasingArrangementStatus" : "leasingArrangementStatus",
+  "leasingArrangementAccountReference" : "LAAR762688",
+  "leasingArrangementType" : "leasingArrangementType",
+  "leasingArrangementAccountType" : "leasingArrangementAccountType",
+  "leasingArrangementSelectedOption" : "leasingArrangementSelectedOption",
+  "leasingArrangementRetrieveActionResponse" : "leasingArrangementRetrieveActionResponse",
+  "leasingArrangementParameterType" : "leasingArrangementParameterType",
+  "leasingArrangementBookingLocation" : "leasingArrangementBookingLocation",
+  "leasingArrangementRetrieveActionTaskRecord" : {},
+  "leasingArrangementRegulationType" : "leasingArrangementRegulationType",
+  "leasingArrangementRegulationReference" : "LARR747068",
+  "leasingArrangementReference" : "LAR745590",
+  "leasingArrangementInstanceReportRecord" : {
+    "leasingArrangementInstanceReportType" : "leasingArrangementInstanceReportType",
+    "leasingArrangementInstanceReportData" : "leasingArrangementInstanceReportData",
+    "leasingArrangementInstanceReport" : {}
+  },
+  "leasingArrangementInstanceAnalysis" : {
+    "leasingArrangementInstanceAnalysisReportType" : "leasingArrangementInstanceAnalysisReportType",
+    "leasingArrangementInstanceAnalysisReport" : {},
+    "leasingArrangementInstanceAnalysisData" : "leasingArrangementInstanceAnalysisData"
+  },
+  "leasingArrangementCurrency" : "USD",
+  "leasingArrangementSchedule" : "leasingArrangementSchedule",
+  "leasingArrangementJurisdiction" : "leasingArrangementJurisdiction"
+}

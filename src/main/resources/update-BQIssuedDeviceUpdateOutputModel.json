@@ -1,0 +1,14 @@
+{
+  "issuedDeviceServiceInputsandOuputs" : "issuedDeviceServiceInputsandOuputs",
+  "issuedDeviceFeatureSchedule" : "issuedDeviceFeatureSchedule",
+  "businessService" : "businessService",
+  "issuedDeviceUpdateActionTaskRecord" : {},
+  "issuedDeviceServiceType" : "issuedDeviceServiceType",
+  "issuedDeviceServiceWorkProduct" : "issuedDeviceServiceWorkProduct",
+  "issuedDeviceServiceName" : "issuedDeviceServiceName",
+  "issuedDeviceUpdateActionTaskReference" : "IDUATR767262",
+  "issuedDevicePostconditions" : "issuedDevicePostconditions",
+  "issuedDeviceServiceDescription" : "issuedDeviceServiceDescription",
+  "updateResponseRecord" : {},
+  "issuedDevicePreconditions" : "issuedDevicePreconditions"
+}

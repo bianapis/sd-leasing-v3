@@ -1,0 +1,26 @@
+{
+  "withdrawalsWithdrawalProcessingServiceWorkProduct" : "withdrawalsWithdrawalProcessingServiceWorkProduct",
+  "withdrawalsRetrieveActionTaskRecord" : {},
+  "withdrawalsWithdrawalProcessingServiceInputsandOuputs" : "withdrawalsWithdrawalProcessingServiceInputsandOuputs",
+  "withdrawalProcessing" : "withdrawalProcessing",
+  "withdrawalsFeatureSchedule" : "withdrawalsFeatureSchedule",
+  "withdrawalsRetrieveActionResponse" : "withdrawalsRetrieveActionResponse",
+  "withdrawalsPostconditions" : "withdrawalsPostconditions",
+  "withdrawalsWithdrawalProcessingServiceName" : "withdrawalsWithdrawalProcessingServiceName",
+  "withdrawalsInstanceAnalysis" : {
+    "withdrawalsInstanceAnalysisReportType" : "withdrawalsInstanceAnalysisReportType",
+    "withdrawalsInstanceAnalysisRecord" : {},
+    "withdrawalsInstanceAnalysisParameters" : "withdrawalsInstanceAnalysisParameters",
+    "withdrawalsInstanceAnalysisReport" : {}
+  },
+  "withdrawalsWithdrawalProcessingServiceDescription" : "withdrawalsWithdrawalProcessingServiceDescription",
+  "withdrawalsWithdrawalProcessingServiceType" : "withdrawalsWithdrawalProcessingServiceType",
+  "withdrawalsRetrieveActionTaskReference" : "WRATR709595",
+  "withdrawalsPreconditions" : "withdrawalsPreconditions",
+  "withdrawalsInstanceReport" : {
+    "withdrawalsInstanceReportParameters" : "withdrawalsInstanceReportParameters",
+    "withdrawalsInstanceReportRecord" : {},
+    "withdrawalsInstanceReport" : {},
+    "withdrawalsInstanceReportType" : "withdrawalsInstanceReportType"
+  }
+}

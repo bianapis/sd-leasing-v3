@@ -1,0 +1,14 @@
+{
+  "paymentsPreconditions" : "paymentsPreconditions",
+  "businessService" : "businessService",
+  "paymentsServiceInputsandOuputs" : "paymentsServiceInputsandOuputs",
+  "paymentsUpdateActionTaskReference" : "PUATR712556",
+  "paymentsPostconditions" : "paymentsPostconditions",
+  "paymentsServiceName" : "paymentsServiceName",
+  "paymentsUpdateActionTaskRecord" : {},
+  "paymentsFeatureSchedule" : "paymentsFeatureSchedule",
+  "updateResponseRecord" : {},
+  "paymentsServiceType" : "paymentsServiceType",
+  "paymentsServiceDescription" : "paymentsServiceDescription",
+  "paymentsServiceWorkProduct" : "paymentsServiceWorkProduct"
+}

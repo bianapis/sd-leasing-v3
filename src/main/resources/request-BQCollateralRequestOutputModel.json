@@ -1,0 +1,15 @@
+{
+  "collateralServiceWorkProduct" : "collateralServiceWorkProduct",
+  "businessService" : "businessService",
+  "collateralPostconditions" : "collateralPostconditions",
+  "collateralServiceType" : "collateralServiceType",
+  "collateralRequestActionTaskReference" : "CRATR729712",
+  "collateralFeatureSchedule" : "collateralFeatureSchedule",
+  "collateralServiceDescription" : "collateralServiceDescription",
+  "requestResponseRecord" : {},
+  "collateralRequestActionTaskRecord" : {},
+  "collateralServiceInputsandOuputs" : "collateralServiceInputsandOuputs",
+  "collateralRequestRecordReference" : "CRRR766478",
+  "collateralServiceName" : "collateralServiceName",
+  "collateralPreconditions" : "collateralPreconditions"
+}

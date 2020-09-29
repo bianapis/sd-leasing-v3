@@ -1,0 +1,15 @@
+{
+  "businessService" : "businessService",
+  "sweepServiceDescription" : "sweepServiceDescription",
+  "sweepFeatureSchedule" : "sweepFeatureSchedule",
+  "sweepInstanceStatus" : "sweepInstanceStatus",
+  "sweepServiceWorkProduct" : "sweepServiceWorkProduct",
+  "sweepServiceType" : "sweepServiceType",
+  "sweepServiceInputsandOuputs" : "sweepServiceInputsandOuputs",
+  "sweepServiceName" : "sweepServiceName",
+  "sweepExchangeActionTaskRecord" : {},
+  "sweepExchangeActionTaskReference" : "SEATR759287",
+  "sweepPostconditions" : "sweepPostconditions",
+  "sweepPreconditions" : "sweepPreconditions",
+  "sweepExchangeActionResponse" : "sweepExchangeActionResponse"
+}

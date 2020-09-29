@@ -1,0 +1,26 @@
+{
+  "issuedDeviceFeatureSchedule" : "issuedDeviceFeatureSchedule",
+  "businessService" : "businessService",
+  "issuedDeviceServiceType" : "issuedDeviceServiceType",
+  "issuedDeviceInstanceReport" : {
+    "issuedDeviceInstanceReportRecord" : {},
+    "issuedDeviceInstanceReportType" : "issuedDeviceInstanceReportType",
+    "issuedDeviceInstanceReport" : {},
+    "issuedDeviceInstanceReportParameters" : "issuedDeviceInstanceReportParameters"
+  },
+  "issuedDevicePreconditions" : "issuedDevicePreconditions",
+  "issuedDeviceRetrieveActionTaskReference" : "IDRATR797916",
+  "issuedDeviceServiceInputsandOuputs" : "issuedDeviceServiceInputsandOuputs",
+  "issuedDeviceRetrieveActionTaskRecord" : {},
+  "issuedDeviceServiceWorkProduct" : "issuedDeviceServiceWorkProduct",
+  "issuedDeviceServiceName" : "issuedDeviceServiceName",
+  "issuedDeviceRetrieveActionResponse" : "issuedDeviceRetrieveActionResponse",
+  "issuedDeviceInstanceAnalysis" : {
+    "issuedDeviceInstanceAnalysisReportType" : "issuedDeviceInstanceAnalysisReportType",
+    "issuedDeviceInstanceAnalysisReport" : {},
+    "issuedDeviceInstanceAnalysisRecord" : {},
+    "issuedDeviceInstanceAnalysisParameters" : "issuedDeviceInstanceAnalysisParameters"
+  },
+  "issuedDevicePostconditions" : "issuedDevicePostconditions",
+  "issuedDeviceServiceDescription" : "issuedDeviceServiceDescription"
+}

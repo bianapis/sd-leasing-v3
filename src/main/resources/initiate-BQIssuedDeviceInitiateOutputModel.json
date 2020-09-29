@@ -1,0 +1,15 @@
+{
+  "issuedDeviceFeatureSchedule" : "issuedDeviceFeatureSchedule",
+  "businessService" : "businessService",
+  "issuedDeviceInstanceReference" : "IDIR770447",
+  "issuedDeviceServiceType" : "issuedDeviceServiceType",
+  "issuedDeviceInitiateActionReference" : "IDIAR785254",
+  "issuedDeviceInstanceStatus" : "issuedDeviceInstanceStatus",
+  "issuedDevicePreconditions" : "issuedDevicePreconditions",
+  "issuedDeviceInitiateActionRecord" : {},
+  "issuedDeviceServiceInputsandOuputs" : "issuedDeviceServiceInputsandOuputs",
+  "issuedDeviceServiceWorkProduct" : "issuedDeviceServiceWorkProduct",
+  "issuedDeviceServiceName" : "issuedDeviceServiceName",
+  "issuedDevicePostconditions" : "issuedDevicePostconditions",
+  "issuedDeviceServiceDescription" : "issuedDeviceServiceDescription"
+}
